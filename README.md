@@ -45,7 +45,7 @@ git clone https://github.com/uFelps/Cep-Service.git
 cd cep-service
 ```
 
-### Rodando o Docker-Compose
+### Rodando o Docker
 
 ```bash
 docker build -t cep-service .
